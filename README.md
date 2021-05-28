@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [twitter](twitter.com/arind_das)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Apollo 11 mission computer required only 33KB of ram (32,768 bits to be exact.)
-
-![resume](https://github.com/arindas/resume/blob/master/assets/resume.jpg)
