@@ -2,8 +2,6 @@
 
 [![arindas' github stats](https://github-readme-stats.vercel.app/api?username=arindas&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/arindas)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arindas&langs_count=8&layout=compact)](https://github.com/arindas)
-
 <!--
 **arindas/arindas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
