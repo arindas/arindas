@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 #### Some repositories I recently worked on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arindas&repo=papaya-react&theme=dark&hide_border=true)](https://github.com/arindas/papaya-react)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arindas&repo=riakv&theme=dark&hide_border=true)](https://github.com/arindas/riakv)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arindas&repo=remote-typist&theme=dark&hide_border=true)](https://github.com/arindas/remote-typist)
