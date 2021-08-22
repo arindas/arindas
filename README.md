@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The Apollo 11 mission computer required only 33KB of ram (32,768 bits to be exact.)
 
 
-### Recent projects
+### Recent projects :computer:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arindas&repo=papaya-react&theme=dark&hide_border=true)](https://github.com/arindas/papaya-react)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arindas&repo=riakv&theme=dark&hide_border=true)](https://github.com/arindas/riakv)
