@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ### Recent projects :computer:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arindas&repo=papaya-react&theme=dark&hide_border=true)](https://github.com/arindas/papaya-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arindas&repo=bheap&theme=dark&hide_border=true)](https://github.com/arindas/bheap)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arindas&repo=riakv&theme=dark&hide_border=true)](https://github.com/arindas/riakv)
 
