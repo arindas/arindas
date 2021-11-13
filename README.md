@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arindas&repo=riakv&theme=dark&hide_border=true)](https://github.com/arindas/riakv)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arindas&repo=remote-typist&theme=dark&hide_border=true)](https://github.com/arindas/remote-typist)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arindas&repo=batnotify&theme=dark&hide_border=true)](https://github.com/arindas/batnotify)
