@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a privacy preserving secure medical document store and a highly performant linear algebra library.
-- 🌱 I’m currently learning open-mp, concurrent decomposition of problems, concurrent C++, Rust.
+- 🌱 I’m currently learning open-mp, concurrent decomposition of problems, distributed systems, Rust.
 - 👯 I’m looking to collaborate on projects involving High Performance requirements, Deep Learning SaaS solutions.
 - 🤔 I’m looking for help with frontend development involving frameworks like React and Vue.
 - 💬 Ask me about algorithm design, backend engineering, deep learning pipelines.
