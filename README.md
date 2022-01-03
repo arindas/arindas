@@ -11,11 +11,13 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a privacy preserving secure medical document store and a highly performant linear algebra library.
-- 🌱 I’m currently learning open-mp, concurrent decomposition of problems, distributed systems, Rust.
-- 👯 I’m looking to collaborate on projects involving High Performance requirements, Deep Learning SaaS solutions.
+- 🔭 I’m currently working on a privacy preserving secure medical document store.
+- 🌱 I’m currently learning concurrent decomposition of problems, distributed systems, Rust and the Kubernetes ecosystem.
+- 👯 I’m looking to collaborate on projects involving:
+  - High Performance requirements
+  - Deep Learning SaaS solutions.
 - 🤔 I’m looking for help with frontend development involving frameworks like React and Vue.
-- 💬 Ask me about algorithm design, backend engineering, deep learning pipelines.
+- 💬 Ask me about algorithm design, backend engineering and deep learning inference pipelines.
 - 📫 How to reach me: [twitter](twitter.com/arind_das), [linkedin](www.linkedin.com/in/arind-das), [gitlab](https://gitlab.com/dasarindam.mails)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Apollo 11 mission computer required only 4KB of ram. (2048 words to be exact. [\[1\]](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer))
