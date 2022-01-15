@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![arindas' github stats](https://github-readme-stats.vercel.app/api?username=arindas&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dark)](https://github.com/arindas)
+[![arindas' github stats](https://github-readme-stats-arindas.vercel.app/api?username=arindas&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dark)](https://github.com/arindas)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arindas&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/arindas)
+[![Top Langs](https://github-readme-stats-arindas.vercel.app/api/top-langs/?username=arindas&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/arindas)
 
 
 <!--
@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 
 ### Recent projects :computer:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arindas&repo=bheap&theme=dark&hide_border=true)](https://github.com/arindas/bheap)
+[![Readme Card](https://github-readme-stats-arindas.vercel.app/api/pin/?username=arindas&repo=bheap&theme=dark&hide_border=true)](https://github.com/arindas/bheap)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arindas&repo=riakv&theme=dark&hide_border=true)](https://github.com/arindas/riakv)
+[![Readme Card](https://github-readme-stats-arindas.vercel.app/api/pin/?username=arindas&repo=riakv&theme=dark&hide_border=true)](https://github.com/arindas/riakv)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arindas&repo=batnotify&theme=dark&hide_border=true)](https://github.com/arindas/batnotify)
+[![Readme Card](https://github-readme-stats-arindas.vercel.app/api/pin/?username=arindas&repo=batnotify&theme=dark&hide_border=true)](https://github.com/arindas/batnotify)
