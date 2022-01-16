@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects involving:
   - High Performance requirements
   - Deep Learning SaaS solutions.
-- 🤔 I’m looking for help with frontend development involving frameworks like React and Vue.
-- 💬 Ask me about algorithm design, backend engineering and deep learning inference pipelines.
+- 🤔 I’m looking for help with:
+  - The blockchain ecosystem
+  - Quantum Computing
+  - AR and VR development
+- 💬 Ask me about algorithms, system design, backend engineering and deep learning inference pipelines.
 - 📫 How to reach me: [twitter](twitter.com/arind_das), [linkedin](www.linkedin.com/in/arind-das), [gitlab](https://gitlab.com/dasarindam.mails)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Apollo 11 mission computer required only 4KB of ram. (2048 words to be exact. [\[1\]](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer))
