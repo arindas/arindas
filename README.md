@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects involving:
   - High Performance requirements
   - Deep Learning SaaS solutions.
-- 🤔 I’m looking for help with:
+- 🤔 I’m curious about:
   - The blockchain ecosystem
   - Quantum Computing
   - AR and VR development
