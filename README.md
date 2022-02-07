@@ -10,8 +10,9 @@
 
 Here are some ideas to get you started:
 -->
-
+<!--
 - 🔭 I’m currently working on a privacy preserving secure medical document store.
+-->
 - 🌱 I’m currently learning concurrent decomposition of problems, distributed systems, Rust and the Kubernetes ecosystem.
 - 👯 I’m looking to collaborate on projects involving:
   - High Performance requirements
