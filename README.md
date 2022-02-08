@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[Resume](https://github.com/arindas/resume)
-
 [![arindas' github stats](https://github-readme-stats-chi-tan.vercel.app/api?username=arindas&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dark)](https://github.com/arindas)
 
 [![Top Langs](https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=arindas&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/arindas)
@@ -25,6 +23,7 @@ Here are some ideas to get you started:
   - AR and VR development
 - 💬 Ask me about algorithms, system design, backend engineering and deep learning inference pipelines.
 - 📫 How to reach me: [twitter](https://twitter.com/arind_das), [linkedin](https://www.linkedin.com/in/arind-das), [gitlab](https://gitlab.com/dasarindam.mails)
+- 📜 Here's my [resume](https://github.com/arindas/resume).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Apollo 11 mission computer required only 4KB of ram. (2048 words to be exact. [\[1\]](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer))
 
