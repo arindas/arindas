@@ -13,7 +13,7 @@ Generalist capable of architecting and implementing cloud native software servic
 experience in medical imaging, real time document processing and business inventory management.
 
 ## Technical Skills
-C, C++, Java, Golang, Rust, Python, Django, Tensorflow, Pytorch, Javascript, React, SQL, Postgres, Git, Docker, Linux, AWS, GCP, Firebase
+C, C++, Java, Golang, Rust, Python, Django, Tensorflow, Pytorch, Javascript, React, SQL, Postgres, Git, Docker, DevOps, MLOps, Linux, AWS, GCP, Firebase
 
 ## Soft Skills
 Agile Software Development, Technical Teaching
@@ -22,7 +22,7 @@ Agile Software Development, Technical Teaching
 - Full Stack Engineer, Medical Imaging AI Services, Claritas Healthtech Pte. Ltd. (06/2020 - Present)
   
   Responsibilities:
-  - Developing distributed deep learning inference services and corressponding client web applications 
+  - Developing distributed deep learning inference services and corresponding client web applications 
   - Deploying and maintaining said applications on the Google Cloud Platform
   
   Projects:
