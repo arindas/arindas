@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects involving:
   - High Performance requirements
   - Deep Learning SaaS solutions.
+<!--
 - 🤔 I’m curious about:
   - The blockchain ecosystem
   - Quantum Computing
   - AR and VR development
+-->
 - 💬 Ask me about algorithms, system design, backend engineering and deep learning inference pipelines.
 - 📫 How to reach me: [twitter](https://twitter.com/arind_das), [linkedin](https://www.linkedin.com/in/arind-das), [gitlab](https://gitlab.com/dasarindam.mails)
 - 📜 Here's my [resume](https://github.com/arindas/resume).
