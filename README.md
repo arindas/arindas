@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - Deep Learning SaaS solutions
 - 💬 Ask me about algorithms, system design, backend engineering and deep learning inference pipelines.
 - 📫 How to reach me: [twitter](https://twitter.com/arind_das), [linkedin](https://www.linkedin.com/in/arind-das), [gitlab](https://gitlab.com/dasarindam.mails)
-- 📜 Here's my [resume](https://github.com/arindas/resume).
+- 📜 Here's my [resume](https://github.com/arindas/resume/releases/latest/download/arindas-resume.pdf).
 - 😄 Pronouns: He/Him
 - ⚙️ Here's my dotfiles [`~/.config`](https://github.com/arindas/dotfiles)
 - ⚡ Fun fact: The Apollo 11 mission computer required only 4KB of ram. (2048 words to be exact. [\[1\]](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer))
