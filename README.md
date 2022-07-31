@@ -4,19 +4,18 @@
 
 [![Top Langs](https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=arindas&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/arindas)
 
-
 <!--
 **arindas/arindas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 <!--
-- 🔭 I’m currently working on a privacy preserving secure medical document store.
--->
-- 🌱 I’m currently learning concurrent decomposition of problems, distributed systems, Rust and the Kubernetes ecosystem.
+- 🔭 I’m currently working on a io_uring powered thread per core architecture based message queue.
 - 👯 I’m looking to collaborate on projects involving:
   - High Performance requirements
   - Deep Learning SaaS solutions
+-->
+- 🌱 I’m currently learning concurrent decomposition of problems, distributed systems, Rust and the Kubernetes ecosystem.
 - 💬 Ask me about algorithms, system design, backend engineering and deep learning inference pipelines.
 - 📫 How to reach me: [twitter](https://twitter.com/arind_das), [linkedin](https://www.linkedin.com/in/arind-das), [gitlab](https://gitlab.com/dasarindam.mails)
 - 📜 Here's my [resume](https://github.com/arindas/resume/releases/latest/download/arindas-resume.pdf).
