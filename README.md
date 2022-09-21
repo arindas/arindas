@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Arindam Das, a software developer based in India.
+I am Arindam Das, a software dev. based in India.
 
 [![arindas' github stats](https://github-readme-stats-chi-tan.vercel.app/api?username=arindas&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dark)](https://github.com/arindas)
 
