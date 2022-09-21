@@ -34,15 +34,6 @@ Here are some ideas to get you started:
 
 ### Recent projects :computer:
 <p>
-<a href="https://github.com/arindas/bheap">
-<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=arindas&repo=bheap&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/arindas/riakv">
-<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=arindas&repo=riakv&theme=dark&hide_border=true">
-</a>
-</p>
-
-<p>
 <a href="https://github.com/arindas/laminarmq">
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=arindas&repo=laminarmq&theme=dark&hide_border=true" />
 </a>
@@ -50,3 +41,12 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=arindas&repo=proglog&theme=dark&hide_border=true">
 </a>
 </p>
+<p>
+<a href="https://github.com/arindas/riakv">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=arindas&repo=riakv&theme=dark&hide_border=true">
+</a>
+<a href="https://github.com/arindas/bheap">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=arindas&repo=bheap&theme=dark&hide_border=true" />
+</a>
+</p>
+
