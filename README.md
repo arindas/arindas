@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Arindam Das, a software developer based in India.
+
 [![arindas' github stats](https://github-readme-stats-chi-tan.vercel.app/api?username=arindas&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dark)](https://github.com/arindas)
 
 [![Top Langs](https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=arindas&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/arindas)
@@ -31,8 +33,20 @@ Here are some ideas to get you started:
 -->
 
 ### Recent projects :computer:
-[![Readme Card](https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=arindas&repo=bheap&theme=dark&hide_border=true)](https://github.com/arindas/bheap)
+<p>
+<a href="https://github.com/arindas/bheap">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=arindas&repo=bheap&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/arindas/riakv">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=arindas&repo=riakv&theme=dark&hide_border=true">
+</a>
+</p>
 
-[![Readme Card](https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=arindas&repo=riakv&theme=dark&hide_border=true)](https://github.com/arindas/riakv)
-
-[![Readme Card](https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=arindas&repo=proglog&theme=dark&hide_border=true)](https://github.com/arindas/proglog)
+<p>
+<a href="https://github.com/arindas/laminarmq">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=arindas&repo=laminarmq&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/arindas/proglog">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=arindas&repo=proglog&theme=dark&hide_border=true">
+</a>
+</p>
